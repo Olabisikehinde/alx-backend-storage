@@ -1,1 +1,1 @@
-g0x02-redis_basic
+g0x02-redis_basic hi
